@@ -1,0 +1,14 @@
+{
+  "homepage": "<homepage/download page for your mod>",
+  "1.18.1": {
+    "1.18.1-0.0.0.4": "TBA",
+    "1.18.1-0.0.0.3": "TBA",
+    "1.18.1-0.0.0.2": "TBA",
+    "1.18.1-0.0.0.1": "TBA",
+	"1.18.1-0.0.0.0": "First Commit, nothing to see"
+  },
+  "promos": {
+    "1.18.1-latest": "1.17.1-0.0.0.0",
+    "1.18.1-recommended": "1.17.1-0.0.0.0"
+  }
+}
